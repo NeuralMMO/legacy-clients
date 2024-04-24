@@ -1,19 +1,9 @@
-![env](resource/v1-5_splash.png)
+![figure](https://neuralmmo.github.io/_static/banner.jpg)
 
-# ![icon](resource/icon_pixel.png) Neural MMO Client
+# ![icon](https://neuralmmo.github.io/_build/html/_images/icon.png) Welcome to the Platform!
 
-[![Discord Chat](https://img.shields.io/discord/569049269051457537.svg)](https://discord.gg/BkMmFUC)
-<a href="https://twitter.com/jsuarez5341?ref_src=twsrc%5Etfw" target="_blank">
-  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
-       alt="tweet button" title="Follow"></img>
-</a>
+[![PyPI version](https://badge.fury.io/py/nmmo.svg)](https://badge.fury.io/py/nmmo)
+[![](https://dcbadge.vercel.app/api/server/BkMmFUC?style=plastic)](https://discord.gg/BkMmFUC)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40jsuarez5341)](https://twitter.com/jsuarez5341)
 
-This repository contains the Unity3D client for the main [Neural MMO](https://github.com/jsuarez5341/neural-mmo) project. It's written in C# in a manner accessible to researchers and developers who work primarily in Python.
-
-
-**Setup**: Follow the instructions in the [Documentation](https://neuralmmo.github.io>).
-
-
-**Authorship and License**: I, Joseph Suarez, am the author of the Unity Client. It is available under the MIT license.
-
-The THREE.js Legacy Web Client was created in collaboration with Clare Zhu. It was originally created as follow-up work for the paper and blog post, but we ended up merging it in. This is also the reason that the project is split into two repositories. It is also available under the MIT license.
+Render client for Neural MMO. [Documentation](https://neuralmmo.github.io "Neural MMO Documentation") is hosted by github.io. Old branches contain the Unity and THREE.js clients for previous versions of the environment.
